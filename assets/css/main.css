@@ -1626,7 +1626,7 @@
 	}
 
 		a:hover {
-			color: #ef8376;
+			color: #1FB2C4;
 			border-bottom-color: transparent;
 		}
 
@@ -1859,7 +1859,7 @@
 			}
 
 				ul.icons li a:hover {
-					color: #ef8376;
+					color: #1FB2C4;
 				}
 
 	ol.default {
@@ -1992,7 +1992,7 @@
 	.button {
 		position: relative;
 		display: inline-block;
-		background: #df7366;
+		background: #1FB2C4;
 		color: #fff;
 		text-align: center;
 		border-radius: 0.5em;
@@ -2014,7 +2014,7 @@
 		button:hover,
 		.button:hover {
 			color: #fff;
-			background: #ef8376;
+			background: #5b5b5b;
 		}
 
 		input[type="button"].alt,
@@ -2098,11 +2098,11 @@
 
 	#header {
 		position: relative;
-		background-image: url("../../images/folk.jpg");
+		background-image: url("../../images/start.jpg");
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
-		color: #1FB2C4;
+		color: #000000;
 		text-align: center;
 		padding: 7.5em 0 2em 0;
 		cursor: default;
@@ -2333,7 +2333,7 @@ margin-right: 80px 0;
 
 				#nav > ul > li > a, #nav > ul > li > span {
 					display: block;
-					color: white;
+					color: #000000;
 					text-decoration: none;
 					border: 0;
 					outline: 0;
