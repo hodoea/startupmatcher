@@ -1595,6 +1595,7 @@
 
 	h2 {
 		font-size: 1.85em;
+		text-align: center;
 	}
 
 	h3 {
@@ -2611,6 +2612,8 @@ margin-right: 80px 0;
 			.carousel article p {
 				text-align: center;
 			}
+
+
 
 
 
